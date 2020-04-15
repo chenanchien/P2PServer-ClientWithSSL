@@ -19,11 +19,15 @@ after connection, client will show the certificate of server, and then client ca
 Command:
 Create account:
 "REGISTER@clientname"
+
 Login:
 "clientname@portnum"
+
 Check accounts online now:
 "LIST"
+
 Payment:
 "clientname#money#anotherclient"
+
 // remeber to enter "LIST" first if decide to pay
 © 2020 GitHub, Inc.
